@@ -1,5 +1,5 @@
 # Battleships game
-Written on 12 Jan 2019.
+*Written on 12 Jan 2019.*
 
 Battleships game with a graphical interface written in C++, using only the basic libraries:
 - iostream, 
